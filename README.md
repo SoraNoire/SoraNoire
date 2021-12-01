@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @SoraNoire
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning block chain
-- 📫 How to reach me sora.thesilentproject@gmail.com  
