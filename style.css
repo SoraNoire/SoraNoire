@@ -39,7 +39,7 @@ section {
 }
 
 .keyboard-box::after {
-  content: 'KEYBOARD';
+  content: 'BRAND';
   position: absolute;
   color: #fff;
   font-size: 4.3em;
